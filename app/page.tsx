@@ -127,14 +127,14 @@ export default function Home() {
       <section className="section">
         <img src="/banner.png" className="banner" />
 
-        <h1>Greenville Roleplay Community</h1>
+        <h1>Greenville Roleplay Wisconsin</h1>
 
         <p>
-          I own/run Greenville Roleplay Community. I'm always tweaking things,
+          I own/run Greenville Roleplay Wisconsin. I'm always tweaking things,
           making the community a better place.
         </p>
 
-        <a className="btn join-btn" href="https://discord.gg/ZaPzyKvuzX" target="_blank">
+        <a className="btn join-btn" href="https://discord.gg/Ben7CrzQXa" target="_blank">
           <span>🔗</span> Join Server
         </a>
       </section>
