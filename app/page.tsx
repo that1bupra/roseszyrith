@@ -100,7 +100,7 @@ export default function Home() {
         {/* RIGHT SIDE — Main Content */}
         <div className="right">
           <h1 className="intro-animate" id="intro-text">
-            Hey, I'm Leo
+            Hey, I'm Zyrith
           </h1>
 
           <div style={{ marginTop: "2rem" }}>
@@ -114,9 +114,9 @@ export default function Home() {
           <div style={{ marginTop: "2rem" }}>
             <h2 style={{ fontSize: "1.5rem", marginBottom: "0.5rem" }}>Links</h2>
             <div className="link-buttons">
-              <a className="btn" href="https://github.com/yourname" target="_blank">GitHub</a>
-              <a className="btn" href="https://discord.com/users/1345807471528247489" target="_blank">Discord</a>
-              <a className="btn" href="https://guns.lol/lastleo4u" target="_blank">guns.lol</a>
+              <a className="btn" href="https://www.youtube.com/@Zyrith2" target="_blank">Youtube</a>
+              <a className="btn" href="https://discord.com/users/1272720406083534868" target="_blank">Discord</a>
+              <a className="btn" href="https://www.roblox.com/share/g/14165478" target="_blank">Roblox</a>
             </div>
           </div>
         </div>
