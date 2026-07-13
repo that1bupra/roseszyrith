@@ -17,7 +17,7 @@ export default function Home() {
   const [discord, setDiscord] = useState<LanyardData | null>(null);
 
   useEffect(() => {
-    fetch("https://api.lanyard.rest/v1/users/1345807471528247489")
+    fetch("https://api.lanyard.rest/v1/users/1272720406083534868")
       .then((res) => res.json())
       .then((data) => setDiscord(data.data));
   }, []);
