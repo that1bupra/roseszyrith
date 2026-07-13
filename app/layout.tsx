@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Leo | Portofolio",
+  title: "Zyrith | Portofolio",
   description: "My portofolio - developer and server",
   icons: {
     icon: "/favicon.ico",
