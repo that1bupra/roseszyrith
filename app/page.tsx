@@ -106,8 +106,9 @@ export default function Home() {
           <div style={{ marginTop: "2rem" }}>
             <h2 style={{ fontSize: "1.5rem", marginBottom: "0.5rem" }}>About</h2>
             <p style={{ color: "#aaa", maxWidth: "400px" }}>
-              Hi, I'm Leo. I am a discord bot developer, with not too much experience.
-              I use TypeScript/discord.js for my bots. I also like to code websites.
+              Hi, I'm Zyrith! I am a car addict and also the  owner/founder of GVRW.
+              I am always active on the community, making GVRW a better place! This 
+              portofolio was coded by @lastleo4u on discord.
             </p>
           </div>
 
